@@ -25,3 +25,4 @@ How do you enable TSL certificate on the server to secure the website to use HTT
 
 From the Certificate authority and you assigin the certificate to your website then we install the certificate on the webserver
 
+Provision NFS server for file storage and transfer
